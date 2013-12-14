@@ -17,7 +17,7 @@ LIBRARY VERSIONS
     versions' asset list - see Web::Library's "css_link_tags_for()" and
     "script_tags_for()" methods for an explanation of the concept.
 
-    Version 3.3.3 (the default)
+    Version 3.3.3 =item Version 3.3.12 (the default)
             * js/d3.min.js
 
 LIBRARY WEBSITE

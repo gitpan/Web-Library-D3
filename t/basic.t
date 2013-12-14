@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Web::Library::Test qw(:all);
 use Test::More;
-for my $version (qw(3.3.3)) {
+for my $version (qw(3.3.3 3.3.12)) {
     library_ok(
         name              => 'D3',
         version           => $version,

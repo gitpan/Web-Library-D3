@@ -1,8 +1,8 @@
 package Web::Library::D3;
 use Moose;
 with qw(Web::Library::Provider Web::Library::SimpleAssets);
-our $VERSION = '0.01';
-sub latest_version { '3.3.3' }
+our $VERSION = '0.02';
+sub latest_version { '3.3.12' }
 
 sub version_map {
 
@@ -42,7 +42,8 @@ methods for an explanation of the concept.
 
 =over 4
 
-=item Version 3.3.3 (the default)
+=item Version 3.3.3
+=item Version 3.3.12 (the default)
 
     * js/d3.min.js
 
